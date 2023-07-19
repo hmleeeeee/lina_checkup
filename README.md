@@ -1,1 +1,1 @@
-# https://hmleeeeee.github.io/lina_checkup/codinglist.html
+# $ https://hmleeeeee.github.io/lina_checkup/codinglist.html
